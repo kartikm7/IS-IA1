@@ -1,4 +1,5 @@
 # IS-IA1
+### Aaditya Kulkarni (092) , Arya Kulkarni (094), Kartikeya Mishra (112)
 
 ## Qr Code Generator:
 
